@@ -2,7 +2,13 @@
 ---
 
 ## Project Description
-Simple polynomial regression application using csv files.
+Simple polynomial regression application using csv files. The application will allow the user to select a number of centroids, and then allocates every data point to the nearest cluster, while trying to keep the centroids as small as possible.
+
+The application will:
+
+1. The number of countries belonging to each cluster
+2. The list of countries belonging to each cluster
+3. The mean Life Expectancy and Birth Rate for each cluster
 
 
 ## Installation Process and requirements
